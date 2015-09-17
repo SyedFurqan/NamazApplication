@@ -7,7 +7,7 @@ import android.support.v7.app.ActionBarActivity;
 public class MainActivity extends ActionBarActivity {
     String abc="hello";
     int fr=12;
-    String basit;
+    String abdulbasit;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
