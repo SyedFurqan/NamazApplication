@@ -8,6 +8,7 @@ import android.view.MenuItem;
 
 public class MainActivity extends ActionBarActivity {
     String abc="hello";
+    int fr=12;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
